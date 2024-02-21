@@ -1,5 +1,5 @@
 # About Myself
-<p style="text-align:justify">Hi everyone, I'm Vaishnavi Shankar Devadig, fueled by caffeine and code, currently navigating the thrilling rapids of my Data Science Master's degree. Some might call me "inquisitive," others might say I have a talent for turning intrusive thoughts into insightful questions. Hey, whatever gets the job done, right? Like the 95% confidence interval I calculated on my ability to make awkward jokes – statistically significant, but the jury's still out on whether they're funny. Regardless, I'm here to learn, experiment, and push the boundaries of what data can tell us, even if it means asking the questions no one else dares to voice. After all, as the saying goes, correlation doesn't imply causation, but it can definitely lead to some fascinating conversations! So, bring on the data, the discussions, and maybe even a few groan-worthy puns – I'm ready to dive in! </p>
+<p style="text-align:justify;color:black">Hi everyone, I'm Vaishnavi Shankar Devadig, fueled by caffeine and code, currently navigating the thrilling rapids of my Data Science Master's degree. Some might call me "inquisitive," others might say I have a talent for turning intrusive thoughts into insightful questions. Hey, whatever gets the job done, right? Like the 95% confidence interval I calculated on my ability to make awkward jokes – statistically significant, but the jury's still out on whether they're funny. Regardless, I'm here to learn, experiment, and push the boundaries of what data can tell us, even if it means asking the questions no one else dares to voice. After all, as the saying goes, correlation doesn't imply causation, but it can definitely lead to some fascinating conversations! So, bring on the data, the discussions, and maybe even a few groan-worthy puns – I'm ready to dive in! </p>
 
 <h2 style="color:black;text-align:justify">Education</h2>
 <b>Data Science, Masters</b>
@@ -10,7 +10,7 @@ Illinois Institute of Technology, Chicago
 ---------------------------------
 
 <h2 style="color:black;text-align:justify">Contact</h2>
-<a href="mailto:vdevadig@hawk.iit.edu">Email</a> | 
+<a href="mailto:vdevadig@hawk.iit.edu">Email | </a>
 <a href="https://www.linkedin.com/in/vaishnavi-shankar-devadig/">LinkedIn</a>
 
 
