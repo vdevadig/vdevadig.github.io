@@ -1,6 +1,6 @@
-## Data Science Student
+# Data Science Student
 
-### Education
+## Education
 <b>Data Science, Masters</b>
 
 Illinois Institute of Technology, Chicago
@@ -8,8 +8,8 @@ Illinois Institute of Technology, Chicago
 
 ---------------------------------
 
-<h3 style="color:black;text-align:justify"> Experience </h3>
-#### Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology 
+## Experience
+<h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
 - <p style="text-align:justify"> Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).</p>
 - <p style="text-align:justify">Provided personalized feedback and support to enhance student learning and comprehension (Mentoring, Communication).</p>
 - <p style="text-align:justify">Graded assignments and exams with fairness and attention to detail (Analytical Thinking, Detail Orientation).</p>
