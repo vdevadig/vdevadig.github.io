@@ -10,7 +10,7 @@ Illinois Institute of Technology, Chicago
 ---------------------------------
 
 <h2 style="color:black;text-align:justify">Contact</h2>
-<a href="mailto:vdevadig@hawk.iit.edu">Email</a>
+<a href="mailto:vdevadig@hawk.iit.edu">Email</a> | 
 <a href="https://www.linkedin.com/in/vaishnavi-shankar-devadig/">LinkedIn</a>
 
 
