@@ -9,8 +9,6 @@ Illinois Institute of Technology, Chicago
 ---------------------------------
 
 
-----------------------------------
-
 
 <h2 style="color:black;text-align:justify"> Experience </h2>
 <h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
