@@ -21,15 +21,15 @@ Illinois Institute of Technology, Chicago
 - <p style="text-align:justify">Enhanced reporting mechanisms by utilizing Tableau for advanced data visualization, enabling stakeholders to visualize trends and make informed decisions regarding inventory levels (Skills: Data Visualization, Tableau, Stakeholder Communication, Reporting).</p>
 
 #### <p style="text-align:justify">Data Analyst Intern | Bharat Sanchar Nigam Limited	                                                   
-•	Led a project analyzing 6 months of BSNL customer data to identify segmentation and churn, providing critical insights for strategic decision-making (Data Analysis, Customer Segmentation, Churn Analysis, and Project Management).
-•	Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets (PostgreSQL, Database Management, SQL).
-•	Applied advanced clustering and regression models to categorize customers and predict churn, driving targeted intervention strategies (Clustering Models, Regression Models, Predictive Analytics, Machine Learning).
-•	Translated analytical findings into actionable strategies for district officials, significantly contributing to sales strategy optimization based on customer behavior insights (Skills: Strategic Planning, Business Intelligence, Stakeholder Communication).</p>
+- <p style="text-align:justify">Led a project analyzing 6 months of BSNL customer data to identify segmentation and churn, providing critical insights for strategic decision-making (Data Analysis, Customer Segmentation, Churn Analysis, and Project Management).</p>
+- <p style="text-align:justify">Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets (PostgreSQL, Database Management, SQL).</p>
+- <p style="text-align:justify">Applied advanced clustering and regression models to categorize customers and predict churn, driving targeted intervention strategies (Clustering Models, Regression Models, Predictive Analytics, Machine Learning).</p>
+- <p style="text-align:justify">Translated analytical findings into actionable strategies for district officials, significantly contributing to sales strategy optimization based on customer behavior insights (Skills: Strategic Planning, Business Intelligence, Stakeholder Communication).</p>
 
 #### <p style="text-align:justify">vSphere GSS Engineer, Severity 1 Production-Down Team | VMware, Inc.	                                                      
-•	Collaborated, diagnosed, and resolved critical VMware vSphere cloud issues for global clients, enhancing system reliability (VMware vSphere, vCenter, ESXi host, Cloud Computing, Problem Solving, High Availability).
-•	Leveraged UNIX, SQL, and Python for issue replication, resolution, and automation tasks, significantly reducing resolution times (UNIX, SQL, Python, Troubleshooting, Automation).
-•	Enhanced network performance and security by expertly configuring Virtual Distributed Switches, improving scalability and protection in virtualized environments (Network Performance Optimization, VDS, Security Enhancements).</p>
+- <p style="text-align:justify">Collaborated, diagnosed, and resolved critical VMware vSphere cloud issues for global clients, enhancing system reliability (VMware vSphere, vCenter, ESXi host, Cloud Computing, Problem Solving, High Availability).</p>
+- <p style="text-align:justify">Leveraged UNIX, SQL, and Python for issue replication, resolution, and automation tasks, significantly reducing resolution times (UNIX, SQL, Python, Troubleshooting, Automation).</p>
+- <p style="text-align:justify">Enhanced network performance and security by expertly configuring Virtual Distributed Switches, improving scalability and protection in virtualized environments (Network Performance Optimization, VDS, Security Enhancements).</p>
 
 
 
