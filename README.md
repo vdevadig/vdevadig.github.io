@@ -1,6 +1,6 @@
 # Data Science Student
 
-<h2 id = "Projects" style="color:black;text-align:justify">Education</h2>
+<h2 style="color:black;text-align:justify">Education</h2>
 <b>Data Science, Masters</b>
 
 Illinois Institute of Technology, Chicago
