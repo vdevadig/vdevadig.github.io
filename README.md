@@ -7,7 +7,7 @@ Illinois Institute of Technology, Chicago
 
 
 ---------------------------------
-<h2 id = "Projects" style="color:black;text-align:justify"> [View my Projects](#Projects) </h2>
+#### [View my Projects](#Projects)
 
 
 <h2 id = "Projects" style="color:black;text-align:justify"> Experience </h2>
