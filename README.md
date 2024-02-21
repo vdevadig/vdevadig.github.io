@@ -2,6 +2,7 @@
 
 ### Education
 <b>Data Science, Masters</b>
+
 Illinois Institute of Technology, Chicago
 
 ### Experience
@@ -30,6 +31,12 @@ Illinois Institute of Technology, Chicago
 - <p style="text-align:justify">Collaborated, diagnosed, and resolved critical VMware vSphere cloud issues for global clients, enhancing system reliability (VMware vSphere, vCenter, ESXi host, Cloud Computing, Problem Solving, High Availability).</p>
 - <p style="text-align:justify">Leveraged UNIX, SQL, and Python for issue replication, resolution, and automation tasks, significantly reducing resolution times (UNIX, SQL, Python, Troubleshooting, Automation).</p>
 - <p style="text-align:justify">Enhanced network performance and security by expertly configuring Virtual Distributed Switches, improving scalability and protection in virtualized environments (Network Performance Optimization, VDS, Security Enhancements).</p>
+
+
+
+
+
+### Projects
 
 
 
