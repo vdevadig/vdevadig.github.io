@@ -5,6 +5,9 @@
 
 Illinois Institute of Technology, Chicago
 
+
+---------------------------------
+
 ### Experience
 #### Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology     
 - <p style="text-align:justify"> Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).</p>
@@ -34,7 +37,7 @@ Illinois Institute of Technology, Chicago
 
 
 
-
+----------------------------------
 
 ### Projects
 
