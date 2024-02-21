@@ -1,4 +1,6 @@
 title: Vaishnavi Shankar Devadig
 logo: /assets/img/DSC_1216.jpg
-size: 50px
-theme: jekyll-theme-contrast
+show_downloads: false
+github:
+  is_project_page: false
+theme: jekyll-theme-minimal
