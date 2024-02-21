@@ -5,12 +5,12 @@ Data Science, Masters
 Illinois Institute of Technology, Chicago
 
 ### Experience
-#### <p style="text-align:justify">Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology     
-•	Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).
-•	Provided personalized feedback and support to enhance student learning and comprehension (Mentoring, Communication).
-•	Graded assignments and exams with fairness and attention to detail (Analytical Thinking, Detail Orientation).
-•	Assisted in preparing course materials and data sets, facilitating practical learning experiences in data analysis (R, Python, Data Preparation, Educational Material Development).
-•	Employed statistical models and data analysis in teaching, helping students tackle real-world problems effectively (Statistical Analysis).</p>
+#### Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology     
+•	<p style="text-align:justify">Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).</p>
+•	<p style="text-align:justify">Provided personalized feedback and support to enhance student learning and comprehension (Mentoring, Communication).</p>
+•	<p style="text-align:justify">Graded assignments and exams with fairness and attention to detail (Analytical Thinking, Detail Orientation).</p>
+•	<p style="text-align:justify">Assisted in preparing course materials and data sets, facilitating practical learning experiences in data analysis (R, Python, Data Preparation, Educational Material Development).</p>
+•	<p style="text-align:justify">Employed statistical models and data analysis in teaching, helping students tackle real-world problems effectively (Statistical Analysis).</p>
 
 
 #### <p style="text-align:justify">Data Analyst Intern | Apex Subsea, Inc.	          
