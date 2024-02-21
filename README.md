@@ -1,6 +1,6 @@
 # Data Science Student
 
-## Education
+<h2 id = "Projects" style="color:black;text-align:justify">Education</h2>
 <b>Data Science, Masters</b>
 
 Illinois Institute of Technology, Chicago
@@ -8,7 +8,7 @@ Illinois Institute of Technology, Chicago
 
 ---------------------------------
 
-## Experience
+<h2 id = "Projects" style="color:black;text-align:justify"> Experience </h2>
 <h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
 
 - <p style="text-align:justify"> Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).</p>
@@ -42,7 +42,7 @@ Illinois Institute of Technology, Chicago
 
 
 ----------------------------------
-<h3 id = "Projects" style="color:black;text-align:justify"> Projects </h3>
+<h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
 
 
