@@ -7,7 +7,7 @@ Illinois Institute of Technology, Chicago
 
 
 ---------------------------------
-[View my Projects](#Projects)
+
 
 ----------------------------------
 
