@@ -54,6 +54,8 @@
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
+[View P1](assets/img/projects/ChurnFin.md)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin fermentum leo vel orci porta. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Tempus iaculis urna id volutpat. Id faucibus nisl tincidunt eget nullam non. Nec feugiat in fermentum posuere urna nec tincidunt. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Quisque non tellus orci ac. Massa placerat duis ultricies lacus. Morbi tristique senectus et netus et. Dui nunc mattis enim ut.
 
 Tristique nulla aliquet enim tortor. Nisi vitae suscipit tellus mauris a diam. Lectus urna duis convallis convallis. Quam nulla porttitor massa id. Varius duis at consectetur lorem donec. Massa enim nec dui nunc mattis enim ut. Egestas sed tempus urna et pharetra pharetra massa massa. Mattis enim ut tellus elementum sagittis. Maecenas sed enim ut sem viverra aliquet eget. Turpis cursus in hac habitasse platea dictumst quisque. Ultricies lacus sed turpis tincidunt. Felis eget nunc lobortis mattis aliquam. Et malesuada fames ac turpis egestas sed. Augue interdum velit euismod in pellentesque massa. Tellus at urna condimentum mattis pellentesque id nibh tortor id. Viverra accumsan in nisl nisi scelerisque eu ultrices. Consectetur adipiscing elit duis tristique sollicitudin nibh. Eget mi proin sed libero. Quam id leo in vitae turpis. Tortor consequat id porta nibh venenatis cras.
