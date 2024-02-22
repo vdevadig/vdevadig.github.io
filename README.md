@@ -54,17 +54,39 @@
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
-[View P1](assets/img/projects/ChurnFin.html)
+<h3 style="color:black;text-align:justify"> MLOps - Implementation of Deep Learning Projects and Deployment on AWS (Git and DVC pipeline) </h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin fermentum leo vel orci porta. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Tempus iaculis urna id volutpat. Id faucibus nisl tincidunt eget nullam non. Nec feugiat in fermentum posuere urna nec tincidunt. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Quisque non tellus orci ac. Massa placerat duis ultricies lacus. Morbi tristique senectus et netus et. Dui nunc mattis enim ut.
+[View Project](assets/img/projects/MLOpsfin.html)
 
-Tristique nulla aliquet enim tortor. Nisi vitae suscipit tellus mauris a diam. Lectus urna duis convallis convallis. Quam nulla porttitor massa id. Varius duis at consectetur lorem donec. Massa enim nec dui nunc mattis enim ut. Egestas sed tempus urna et pharetra pharetra massa massa. Mattis enim ut tellus elementum sagittis. Maecenas sed enim ut sem viverra aliquet eget. Turpis cursus in hac habitasse platea dictumst quisque. Ultricies lacus sed turpis tincidunt. Felis eget nunc lobortis mattis aliquam. Et malesuada fames ac turpis egestas sed. Augue interdum velit euismod in pellentesque massa. Tellus at urna condimentum mattis pellentesque id nibh tortor id. Viverra accumsan in nisl nisi scelerisque eu ultrices. Consectetur adipiscing elit duis tristique sollicitudin nibh. Eget mi proin sed libero. Quam id leo in vitae turpis. Tortor consequat id porta nibh venenatis cras.
 
-Interdum consectetur libero id faucibus nisl tincidunt eget nullam. Egestas egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Tristique magna sit amet purus gravida quis blandit. Et netus et malesuada fames ac turpis egestas integer eget. Porttitor rhoncus dolor purus non enim praesent elementum facilisis leo. Pellentesque pulvinar pellentesque habitant morbi tristique. Dui vivamus arcu felis bibendum ut tristique. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Eget duis at tellus at urna condimentum mattis pellentesque id. Laoreet non curabitur gravida arcu ac tortor dignissim. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Amet volutpat consequat mauris nunc congue. Amet luctus venenatis lectus magna fringilla urna porttitor. Tempor id eu nisl nunc mi ipsum faucibus vitae aliquet. Iaculis at erat pellentesque adipiscing commodo elit at imperdiet dui. Scelerisque varius morbi enim nunc.
+<h3 style="color:black;text-align:justify"> Full Fine-Tuning a BART Generative-AI model for Text Summarization </h2>
 
-Odio facilisis mauris sit amet. Diam ut venenatis tellus in metus. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Volutpat sed cras ornare arcu dui vivamus arcu felis. Sagittis purus sit amet volutpat consequat mauris nunc congue nisi. Amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Sed euismod nisi porta lorem mollis aliquam ut porttitor. Sit amet est placerat in egestas erat imperdiet sed. Ut ornare lectus sit amet est. Egestas congue quisque egestas diam in arcu cursus euismod quis. Interdum consectetur libero id faucibus.
+[View Project](assets/img/projects/FullFTfin-2.html)
 
-Hendrerit gravida rutrum quisque non tellus. Diam vulputate ut pharetra sit amet. Interdum posuere lorem ipsum dolor sit amet. Purus ut faucibus pulvinar elementum integer. Risus commodo viverra maecenas accumsan lacus vel. Ultrices in iaculis nunc sed augue lacus viverra. Consequat mauris nunc congue nisi vitae. Potenti nullam ac tortor vitae purus faucibus. Sed blandit libero volutpat sed cras ornare. Consequat ac felis donec et odio pellentesque diam volutpat commodo. Feugiat nibh sed pulvinar proin.
+
+<h3 style="color:black;text-align:justify"> Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention </h2>
+
+[View Project](assets/img/projects/psetaefin.html)
+
+
+<h3 style="color:black;text-align:justify"> Hypothesis Testing on Carbon Emissions Data </h2>
+
+[View Project](assets/img/projects/HT.html)
+
+
+<h3 style="color:black;text-align:justify"> From Baskets to Insights: Segmenting Customers Based on Purchase Behavior with K-Means and Hierarchical Clustering </h2>
+
+[View Project](assets/img/projects/segfin.html)
+
+
+<h3 style="color:black;text-align:justify"> Demystifying Customer Fallout: A Comparative Evaluation of Algorithmic Predictors (Vanilla, Ensemble, and Neural Network Models) </h2>
+
+[View Project](assets/img/projects/ChurnFin.html)
+
+
+<h3 style="color:black;text-align:justify"> Tableau Dashboards </h2>
+
+[View Project](assets/img/projects/Tableau.html)
 
 
 
