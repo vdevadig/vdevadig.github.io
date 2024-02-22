@@ -54,7 +54,7 @@
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
-[View P1](assets/img/projects/ChurnFin.md)
+[View P1](assets/img/projects/ChurnFin.html)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin fermentum leo vel orci porta. Maecenas pharetra convallis posuere morbi leo urna molestie at elementum. Tempus iaculis urna id volutpat. Id faucibus nisl tincidunt eget nullam non. Nec feugiat in fermentum posuere urna nec tincidunt. Sed vulputate odio ut enim blandit volutpat maecenas volutpat. Quisque non tellus orci ac. Massa placerat duis ultricies lacus. Morbi tristique senectus et netus et. Dui nunc mattis enim ut.
 
