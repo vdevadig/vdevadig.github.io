@@ -54,37 +54,42 @@
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
-<h3 style="color:black;text-align:justify"> MLOps - Implementation of Deep Learning Projects and Deployment on AWS (Git and DVC pipeline) </h2>
+<h3 style="color:black;text-align:justify"> MLOps - Implementation of Deep Learning Projects and Deployment on AWS (Git and DVC pipeline) </h3>
+
 
 [View Project](assets/img/projects/MLOpsfin.html)
 
 
-<h3 style="color:black;text-align:justify"> Full Fine-Tuning a BART Generative-AI model for Text Summarization </h2>
+<h3 style="color:black;text-align:justify"> Full Fine-Tuning a BART Generative-AI model for Text Summarization </h3>
+
 
 [View Project](assets/img/projects/FullFTfin-2.html)
 
 
-<h3 style="color:black;text-align:justify"> Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention </h2>
+<h3 style="color:black;text-align:justify"> Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention </h3>
+
 
 [View Project](assets/img/projects/psetaefin.html)
 
 
-<h3 style="color:black;text-align:justify"> Hypothesis Testing on Carbon Emissions Data </h2>
+<h3 style="color:black;text-align:justify"> Hypothesis Testing on Carbon Emissions Data </h3>
+
 
 [View Project](assets/img/projects/HT.html)
 
 
-<h3 style="color:black;text-align:justify"> From Baskets to Insights: Segmenting Customers Based on Purchase Behavior with K-Means and Hierarchical Clustering </h2>
+<h3 style="color:black;text-align:justify"> From Baskets to Insights: Segmenting Customers Based on Purchase Behavior with K-Means and Hierarchical Clustering </h3>
+
 
 [View Project](assets/img/projects/segfin.html)
 
 
-<h3 style="color:black;text-align:justify"> Demystifying Customer Fallout: A Comparative Evaluation of Algorithmic Predictors (Vanilla, Ensemble, and Neural Network Models) </h2>
+<h3 style="color:black;text-align:justify"> Demystifying Customer Fallout: A Comparative Evaluation of Algorithmic Predictors (Vanilla, Ensemble, and Neural Network Models) </h3>
 
 [View Project](assets/img/projects/ChurnFin.html)
 
 
-<h3 style="color:black;text-align:justify"> Tableau Dashboards </h2>
+<h3 style="color:black;text-align:justify"> Tableau Dashboards </h3>
 
 [View Project](assets/img/projects/Tableau.html)
 
