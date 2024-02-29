@@ -6,6 +6,10 @@
 
 <p style="text-align:justify;color:black;">Illinois Institute of Technology, Chicago</p>
 
+<p style="text-align:justify;color:black"> Currently, conducting research on a <b>novel Tag-aware Recommender System (TRS)</b> under the guidance of Professor Yong Zheng at the Illinois Institute of Technology. This project explores the <b>integration of both social tagging and contextual information as tags</b> within the recommendation process.</p>
+
+<p style="text-align:justify;color:black">Our focus is on generating highly specific item recommendations for individual users based on the combination of their user profile and associated tags, rather than generic top-k recommendations. This necessitates the <b>development of novel evaluation metrics and relevancy measures that specifically consider the user-tag combination, moving beyond solely user-centric approaches.</b></p>
+
 
 ---------------------------------
 
