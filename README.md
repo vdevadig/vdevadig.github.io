@@ -23,35 +23,32 @@
 
 
 <h2 style="color:black;text-align:justify"> Experience </h2>
+<h3 style="color:black;text-align:justify"> Data Science Intern | Apex Subsea, Inc. </h3>
+
+- <p style="text-align:justify;color:black;">Spearheaded the collecting and preprocessing of extensive inventory datasets across multiple client locations, employing Spark for efficient data handling and preparation (Data Collection, Data Preprocessing, Spark).</p>
+- <p style="text-align:justify;color:black;">Implemented regression models and time series forecasting to identify the time until service and forecast inventory inflow and outflow. Achieved a 12% improvement in inventory efficiency and reduced overhead costs (Python).</p>
+- <p style="text-align:justify;color:black;">Designed and executed ETL pipelines using AWS, improving data quality and accessibility. Enhanced reporting with Tableau for advanced data visualization. Deployed models with Amazon SageMaker (AWS Glue, Athena, Amazon SageMaker).</p>
+
+
+<h3 style="color:black;text-align:justify"> Data Science Intern | Bharat Sanchar Nigam Limited </h3>     
+
+- <p style="text-align:justify;color:black;">Led a project analyzing 6 months of BSNL customer data from 5 divisions and 50+ sub-divisions of the Dakshin Kannada district to identify segmentation and churn, providing critical insights for strategic decision-making (Customer Segmentation, Churn Analysis).</p>
+- <p style="text-align:justify;color:black;">•	Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets.</p>
+- <p style="text-align:justify;color:black;">•	Applied advanced supervised and unsupervised machine learning models to categorize customers and predict churn, driving targeted intervention strategies for 4G network implementation in these places (Clustering, Regression, Predictive Analytics).</p>
+
+
 <h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
 
-- <p style="text-align:justify;color:black;"> Supervised class hours and guided students through projects, exams, and assignments (Project Management, Academic Advising).</p>
-- <p style="text-align:justify;color:black;">Provided personalized feedback and support to enhance student learning and comprehension (Mentoring, Communication).</p>
-- <p style="text-align:justify;color:black;">Graded assignments and exams with fairness and attention to detail (Analytical Thinking, Detail Orientation).</p>
-- <p style="text-align:justify;color:black;">Assisted in preparing course materials and data sets, facilitating practical learning experiences in data analysis (R, Python, Data Preparation, Educational Material Development).</p>
+- <p style="text-align:justify;color:black;">Enhanced student learning by supervising and guiding through curriculum and projects, focusing on practical data analysis skills in R and Python, benefitting 150+ students (Communication Skills, Mentorship).</p>
+- <p style="text-align:justify;color:black;">Graded with fairness and improved student comprehension by 35% through feedback and support based on mid-term and finals. </p>
 - <p style="text-align:justify;color:black;">Employed statistical models and data analysis in teaching, helping students tackle real-world problems effectively (Statistical Analysis).</p>
 
 
-<h3 style="color:black;text-align:justify"> Data Analyst Intern | Apex Subsea, Inc. </h3>
-
-- <p style="text-align:justify;color:black;"> Spearheaded the collection and preprocessing of extensive inventory datasets across various U.S. and offshore locations, employing Python for efficient data handling and preparation (Skills: Data Collection, Data Preprocessing, Python, ETL Processes).</p>
-- <p style="text-align:justify;color:black;">Conducted in-depth data analyses to forecast equipment inflow and outflow, leveraging regression models to enhance inventory capacity predictions and strategic planning (Skills: Data Analysis, Predictive Modeling, Regression Models, Python).</p>
-- <p style="text-align:justify;color:black;">Optimized inventory management by implementing strategic recommendations based on analysis, achieving a 12% improvement in inventory efficiency and reduced overhead costs (Skills: Inventory Management, Strategic Planning, Data-Driven Decision Making).</p>
-- <p style="text-align:justify;color:black;">Designed and executed ETL pipelines using Amazon Web Services, streamlining data integration, transformation, and storage processes for improved data quality and accessibility (Skills: ETL Pipelines, AWS Glue, Athena, Data Integration, Data Transformation).</p>
-- <p style="text-align:justify;color:black;">Enhanced reporting mechanisms by utilizing Tableau for advanced data visualization, enabling stakeholders to visualize trends and make informed decisions regarding inventory levels (Skills: Data Visualization, Tableau, Stakeholder Communication, Reporting).</p>
-
-<h3 style="color:black;text-align:justify"> Data Analyst Intern | Bharat Sanchar Nigam Limited </h3>     
-
-- <p style="text-align:justify;color:black;">Led a project analyzing 6 months of BSNL customer data to identify segmentation and churn, providing critical insights for strategic decision-making (Data Analysis, Customer Segmentation, Churn Analysis, and Project Management).</p>
-- <p style="text-align:justify;color:black;">Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets (PostgreSQL, Database Management, SQL).</p>
-- <p style="text-align:justify;color:black;">Applied advanced clustering and regression models to categorize customers and predict churn, driving targeted intervention strategies (Clustering Models, Regression Models, Predictive Analytics, Machine Learning).</p>
-- <p style="text-align:justify;color:black;">Translated analytical findings into actionable strategies for district officials, significantly contributing to sales strategy optimization based on customer behavior insights (Skills: Strategic Planning, Business Intelligence, Stakeholder Communication).</p>
-
 <h3 style="color:black;text-align:justify"> vSphere GSS Engineer, Severity 1 Production-Down Team | VMware, Inc. </h3>
 
-- <p style="text-align:justify;color:black;">Collaborated, diagnosed, and resolved critical VMware vSphere cloud issues for global clients, enhancing system reliability (VMware vSphere, vCenter, ESXi host, Cloud Computing, Problem Solving, High Availability).</p>
-- <p style="text-align:justify;color:black;">Leveraged UNIX, SQL, and Python for issue replication, resolution, and automation tasks, significantly reducing resolution times (UNIX, SQL, Python, Troubleshooting, Automation).</p>
-- <p style="text-align:justify;color:black;">Enhanced network performance and security by expertly configuring Virtual Distributed Switches, improving scalability and protection in virtualized environments (Network Performance Optimization, VDS, Security Enhancements).</p>
+- <p style="text-align:justify;color:black;">Executed server-side deployment of critical applications on VMware, optimizing for high availability, performance, and scalability in a virtualized environment (VMware ESXi, vSphere, vCenter Server, vSAN).</p>
+- <p style="text-align:justify;color:black;">Collaborated, diagnosed, and resolved critical vSphere cloud issues for global clients, enhancing system reliability for over 100 clients.</p>
+- <p style="text-align:justify;color:black;">Utilized UNIX, SQL, and Python for issue replication, resolution, and automation tasks, reducing resolution times by 5%.</p>
 
 
 
