@@ -33,8 +33,8 @@
 <h3 style="color:black;text-align:justify"> Data Science Intern | Bharat Sanchar Nigam Limited </h3>     
 
 - <p style="text-align:justify;color:black;">Led a project analyzing 6 months of BSNL customer data from 5 divisions and 50+ sub-divisions of the Dakshin Kannada district to identify segmentation and churn, providing critical insights for strategic decision-making (Customer Segmentation, Churn Analysis).</p>
-- <p style="text-align:justify;color:black;">•	Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets.</p>
-- <p style="text-align:justify;color:black;">•	Applied advanced supervised and unsupervised machine learning models to categorize customers and predict churn, driving targeted intervention strategies for 4G network implementation in these places (Clustering, Regression, Predictive Analytics).</p>
+- <p style="text-align:justify;color:black;">Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets.</p>
+- <p style="text-align:justify;color:black;">Applied advanced supervised and unsupervised machine learning models to categorize customers and predict churn, driving targeted intervention strategies for 4G network implementation in these places (Clustering, Regression, Predictive Analytics).</p>
 
 
 <h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
