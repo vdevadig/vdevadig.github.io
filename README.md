@@ -61,6 +61,13 @@
 [View Project](assets/img/projects/MLOpsfin.html)
 
 
+<h3 style="color:black;text-align:justify"> Medical Chatbot using Meta Llama 2 Large Language Model </h3>
+
+
+[View Project](assets/img/projects/Untitled48.html)
+
+
+
 <h3 style="color:black;text-align:justify"> Full Fine-Tuning a BART Generative-AI model for Text Summarization </h3>
 
 
