@@ -25,7 +25,7 @@
 <h2 style="color:black;text-align:justify"> Experience </h2>
 <h3 style="color:black;text-align:justify"> Data Science Intern | Apex Subsea, Inc. </h3>
 
-- <p style="text-align:justify;color:black;">Spearheaded the collecting and preprocessing of extensive inventory datasets across multiple client locations, employing Spark for efficient data handling and preparation (Data Collection, Data Preprocessing, Spark).</p>
+- <p style="text-align:justify;color:black;">Spearheaded the collecting and preprocessing of extensive inventory datasets across multiple client locations, employing Python for efficient data handling and preparation (Data Collection, Data Preprocessing, Python).</p>
 - <p style="text-align:justify;color:black;">Implemented regression models and time series forecasting to identify the time until service and forecast inventory inflow and outflow. Achieved a 12% improvement in inventory efficiency and reduced overhead costs (Python).</p>
 - <p style="text-align:justify;color:black;">Designed and executed ETL pipelines using AWS, improving data quality and accessibility. Enhanced reporting with Tableau for advanced data visualization. Deployed models with Amazon SageMaker (AWS Glue, Athena, Amazon SageMaker).</p>
 
