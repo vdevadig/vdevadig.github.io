@@ -74,10 +74,10 @@
 [View Project](assets/img/projects/FullFTfin-2.html)
 
 
-<h3 style="color:black;text-align:justify"> Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention </h3>
+<!--<h3 style="color:black;text-align:justify"> Satellite Image Time Series Classification with Pixel-Set Encoders and Temporal Self-Attention </h3>
 
 
-[View Project](assets/img/projects/psetaefin.html)
+[View Project](assets/img/projects/psetaefin.html) -->
 
 
 <h3 style="color:black;text-align:justify"> Hypothesis Testing on Carbon Emissions Data </h3>
