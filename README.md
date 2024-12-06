@@ -17,41 +17,6 @@
 <a href="mailto:vdevadig@hawk.iit.edu">Email | </a>
 <a href="https://www.linkedin.com/in/vaishnavi-shankar-devadig/">LinkedIn</a>
 
-
-----------------------------------
-
-
-
-<h2 style="color:black;text-align:justify"> Experience </h2>
-<h3 style="color:black;text-align:justify"> Data Science Intern | Apex Subsea, Inc. </h3>
-
-- <p style="text-align:justify;color:black;">Spearheaded the collecting and preprocessing of extensive inventory datasets across multiple client locations, employing Python for efficient data handling and preparation (Data Collection, Data Preprocessing, Python).</p>
-- <p style="text-align:justify;color:black;">Implemented regression models and time series forecasting to identify the time until service and forecast inventory inflow and outflow. Achieved a 12% improvement in inventory efficiency and reduced overhead costs (Python).</p>
-- <p style="text-align:justify;color:black;">Designed and executed ETL pipelines using AWS, improving data quality and accessibility. Enhanced reporting with Tableau for advanced data visualization. Deployed models with Amazon SageMaker (AWS Glue, Athena, Amazon SageMaker).</p>
-
-
-<h3 style="color:black;text-align:justify"> Data Science Intern | Bharat Sanchar Nigam Limited </h3>     
-
-- <p style="text-align:justify;color:black;">Led a project analyzing 6 months of BSNL customer data from 5 divisions and 50+ sub-divisions of the Dakshin Kannada district to identify segmentation and churn, providing critical insights for strategic decision-making (Customer Segmentation, Churn Analysis).</p>
-- <p style="text-align:justify;color:black;">Employed PostgreSQL for comprehensive database management, ensuring the integrity and accuracy of complex datasets.</p>
-- <p style="text-align:justify;color:black;">Applied advanced supervised and unsupervised machine learning models to categorize customers and predict churn, driving targeted intervention strategies for 4G network implementation in these places (Clustering, Regression, Predictive Analytics).</p>
-
-
-<h3 style="color:black;text-align:justify"> Graduate Teaching Assistant, Data Preparation and Analysis| Illinois Institute of Technology </h3>
-
-- <p style="text-align:justify;color:black;">Enhanced student learning by supervising and guiding through curriculum and projects, focusing on practical data analysis skills in R and Python, benefitting 150+ students (Communication Skills, Mentorship).</p>
-- <p style="text-align:justify;color:black;">Graded with fairness and improved student comprehension by 35% through feedback and support based on mid-term and finals. </p>
-- <p style="text-align:justify;color:black;">Employed statistical models and data analysis in teaching, helping students tackle real-world problems effectively (Statistical Analysis).</p>
-
-
-<h3 style="color:black;text-align:justify"> vSphere GSS Engineer, Severity 1 Production-Down Team | VMware, Inc. </h3>
-
-- <p style="text-align:justify;color:black;">Executed server-side deployment of critical applications on VMware, optimizing for high availability, performance, and scalability in a virtualized environment (VMware ESXi, vSphere, vCenter Server, vSAN).</p>
-- <p style="text-align:justify;color:black;">Collaborated, diagnosed, and resolved critical vSphere cloud issues for global clients, enhancing system reliability for over 100 clients.</p>
-- <p style="text-align:justify;color:black;">Utilized UNIX, SQL, and Python for issue replication, resolution, and automation tasks, reducing resolution times by 5%.</p>
-
-
-
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
