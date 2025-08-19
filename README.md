@@ -34,10 +34,18 @@ For me, data engineering isn’t just about pipelines, it is about architecting 
 ----------------------------------
 <h2 id = "Projects" style="color:black;text-align:justify"> Projects </h2>
 
+<h3 style="color:black;text-align:justify"> Data Engineering Architecture Implementation with Azure Services and Azure Databricks </h3>
+
+
+[View Project](assets/img/projects/DEFWA.html)
+
+
+
 <h3 style="color:black;text-align:justify"> MLOps - Implementation of Deep Learning Projects and Deployment on AWS (Git and DVC pipeline) </h3>
 
 
 [View Project](assets/img/projects/MLOpsfin.html)
+
 
 
 <h3 style="color:black;text-align:justify"> Medical Chatbot using Meta Llama 2 Large Language Model </h3>
@@ -59,10 +67,12 @@ For me, data engineering isn’t just about pipelines, it is about architecting 
 [View Project](assets/img/projects/psetaefin.html) -->
 
 
+
 <h3 style="color:black;text-align:justify"> Hypothesis Testing on Carbon Emissions Data </h3>
 
 
 [View Project](assets/img/projects/HT.html)
+
 
 
 <h3 style="color:black;text-align:justify"> From Baskets to Insights: Segmenting Customers Based on Purchase Behavior with K-Means and Hierarchical Clustering </h3>
@@ -71,9 +81,11 @@ For me, data engineering isn’t just about pipelines, it is about architecting 
 [View Project](assets/img/projects/segfin.html)
 
 
+
 <h3 style="color:black;text-align:justify"> Demystifying Customer Fallout: A Comparative Evaluation of Algorithmic Predictors (Vanilla, Ensemble, and Neural Network Models) </h3>
 
 [View Project](assets/img/projects/ChurnFin.html)
+
 
 
 <h3 style="color:black;text-align:justify"> Tableau Dashboards </h3>
