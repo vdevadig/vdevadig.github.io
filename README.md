@@ -1,19 +1,25 @@
 # About Me
-<p style="text-align:justify;color:black">Hey there! I’m Vaishnavi Shankar Devadig, fueled by caffeine, cloud clusters, and just the right amount of SQL. By day (and sometimes by late night), I am navigating the mind boggling rapids of my full time job as a Data Engineer. Some say I am inquisitive, others say I have turned my intrusive thoughts into optimized queries, and hey, whatever gets the job done, right?
-For me, data engineering isn’t just about pipelines and partitions, it is about architecting reliable systems, wrangling messy datasets into shape, and making sure downstream analysts, scientists, and applications can trust what flows their way. Whether it’s debugging a stubborn Spark job, designing scalable architectures, or questioning why a single column has five different definitions across teams, I am here to engineer clarity out of chaos.
+<p style="text-align:justify;color:black">Hey there! I am Vaishnavi Shankar Devadig, fueled by caffeine, cloud clusters, and just the right amount of SQL. By day (and sometimes by late night), I am navigating the mind boggling rapids of my full time job as a Data Engineer. Some say I am inquisitive, others say I have turned my intrusive thoughts into optimized queries, and hey, whatever gets the job done, right?
+For me, data engineering isn’t just about pipelines, it is about architecting reliable systems, wrangling messy datasets into shape, and making sure downstream analysts, scientists, and applications can trust what flows their way. Whether it is debugging a stubborn Spark job, designing scalable architectures, or questioning why a single column has five different definitions across teams, I am here to engineer clarity out of chaos.</p>
   
-That being said, I am not just content moving data, I like exploring what happens once the pipelines deliver it as well. Experimenting with ML models, dabbling in feature engineering, and translating raw numbers into insights keeps things exciting. After all, correlation may not imply causation, but it does spark fascinating questions at the intersection of engineering and data science.
+<p style="text-align:justify;color:black">That being said, I am not just content moving data, I like exploring what happens once the pipelines deliver it as well. Experimenting with ML models, dabbling in feature engineering, and translating raw numbers into insights keeps things exciting. After all, correlation may not imply causation, but it does spark fascinating questions at the intersection of engineering and data science.</p>
 
-So bring on the data lakes, plumbing, deltas, and discussions, I am ready to dive deep, from the nitty-gritty of ingestion jobs all the way to machine learning experiments riding on top of those bigger boats!</p>
+<p style="text-align:justify;color:black">So bring on the data lakes, plumbing, deltas, and discussions, I am ready to dive deep, from the nitty-gritty of ingestion jobs all the way to machine learning experiments riding on top of those bigger boats!</p>
 
-<h2 style="color:black;text-align:justify">Education</h2>
-<p style="text-align:justify;color:black;"><b>Data Science, Masters</b></p>
+<h2 style="color:black;text-align:justify">Current Experience</h2>
+<p style="text-align:justify;color:black;"><b>Data Engineer</b></p>
 
-<p style="text-align:justify;color:black;">Illinois Institute of Technology, Chicago</p>
+<p style="text-align:justify;color:black;">Humana, Inc. (Contract)</p>
 
-<p style="text-align:justify;color:black"> Currently, conducting research on a <b>novel Tag-aware Recommender System (TRS)</b> under the guidance of Professor Yong Zheng at the Illinois Institute of Technology. This project explores the <b>integration of both social tagging and contextual information as tags</b> within the recommendation process.</p>
+<p style="text-align:justify;color:black">Leading the redesign of Medicare claims ingestion in collaboration with engineering/product stakeholders, using Databricks and PySpark, replacing EDIFECS and improving processing efficiency by 35% across 1TB+ datasets.</p>
 
-<p style="text-align:justify;color:black">Our focus is on generating highly specific item recommendations for individual users based on the combination of their user profile and specific associated tags (out of all the selected tags), rather than generic top-k recommendations (based on all the tags). This necessitates the <b>development of novel evaluation metrics and relevancy measures that specifically consider the user-tag combination, moving beyond solely user-centric approaches.</b></p>
+<p style="text-align:justify;color:black">Automated end-to-end dental and pharmacy claims orchestration via Azure Data Factory, cutting manual intervention by 70% and ensuring consistent SLA compliance.</b></p>
+
+<p style="text-align:justify;color:black">Optimized critical SQL Server procedures, reducing runtime by 30% and supporting faster, error-free reporting.</p>
+
+<p style="text-align:justify;color:black">Developing a GenAI solution using DBRX, RAG (Retrieval Augmented Generation), and Mosaic AI for contextual claims summarization, reducing review cycles by 30% and supporting 12M+ record decisions.</p>
+
+<p style="text-align:justify;color:black">Established end-to-end validation and compliance checks aligned with CMS audits, reducing regulatory risks and ensuring readiness. </p>
 
 
 ---------------------------------
