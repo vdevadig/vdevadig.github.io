@@ -7,7 +7,7 @@ For me, data engineering isn’t just about pipelines, it is about architecting 
 <p style="text-align:justify;color:black">So bring on the data lakes, plumbing, deltas, and discussions, I am ready to dive deep, from the nitty-gritty of ingestion jobs all the way to machine learning experiments riding on top of those bigger boats!</p>
 
 <h2 style="color:black;text-align:justify">Current Experience</h2>
-<p style="text-align:justify;color:black;"><b>Data Engineer</b></p>
+<h4 style="text-align:justify;color:black;"><b>Data Engineer</b></h4>
 
 <p style="text-align:justify;color:black;">Humana, Inc. (Contract)</p>
 
