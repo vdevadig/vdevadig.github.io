@@ -19,7 +19,7 @@ So bring on the data lakes, plumbing, deltas, and discussions, I am ready to div
 ---------------------------------
 
 <h2 style="color:black;text-align:justify">Contact</h2>
-<a href="mailto:vdevadig@hawk.iit.edu">Email | </a>
+<a href="mailto:devadigvaishnavi@gmail.com">Email | </a>
 <a href="https://www.linkedin.com/in/vaishnavi-shankar-devadig/">LinkedIn</a>
 
 ----------------------------------
