@@ -14,15 +14,18 @@ For me, data engineering isn’t just about pipelines, it is about architecting 
 
 <p style="text-align:justify;color:black;">Humana, Inc. (Contract)</p>
 
-<p style="text-align:justify;color:black">Leading the redesign of Medicare claims ingestion in collaboration with engineering/product stakeholders, using Databricks and PySpark, replacing EDIFECS and improving processing efficiency by 35% across 1TB+ datasets.</p>
+<p style="text-align:justify;color:black">•	Leading the redesign of Medicare claims ingestion in collaboration with engineering/product stakeholders, using Databricks and PySpark, replacing EDIFECS and improving processing efficiency by 35% across 1TB+ datasets.</p>
 
-<p style="text-align:justify;color:black">Automated end-to-end dental and pharmacy claims orchestration via Azure Data Factory, cutting manual intervention by 70% and ensuring consistent SLA compliance.</b></p>
+<p style="text-align:justify;color:black">•	Automated end-to-end dental and pharmacy claims orchestration via Azure Data Factory, cutting manual intervention by 70% and ensuring consistent SLA compliance. Synced data with Azure Synapse for gold layer data view for business.</p>
 
-<p style="text-align:justify;color:black">Optimized critical SQL Server procedures, reducing runtime by 30% and supporting faster, error-free reporting.</p>
+<p style="text-align:justify;color:black">•	Optimized critical SQL Server procedures, reducing runtime by 30% and supporting faster, error-free reporting.</p>
 
-<p style="text-align:justify;color:black">Developing a GenAI solution using DBRX, RAG (Retrieval Augmented Generation), and Mosaic AI for contextual claims summarization, reducing review cycles by 30% and supporting 12M+ record decisions.</p>
+<p style="text-align:justify;color:black">•	Built logic apps for multiple workflows like acknowledgements processing, email alerts, and internal orchestrations.</p>
 
-<p style="text-align:justify;color:black">Established end-to-end validation and compliance checks aligned with CMS audits, reducing regulatory risks and ensuring readiness. </p>
+<p style="text-align:justify;color:black">•	Developed a GenAI solution using DBRX, RAG (Retrieval Augmented Generation), and Mosaic AI for contextual claims summarization, reducing review cycles by 30% and supporting 12M+ record decisions.</p>
+
+<p style="text-align:justify;color:black">•	Established end-to-end validation and compliance checks aligned with CMS audits, reducing regulatory risks and ensuring readiness.</p>
+
 
 
 ---------------------------------
